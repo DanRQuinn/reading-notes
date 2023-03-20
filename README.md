@@ -6,7 +6,12 @@ Code Fellows Reading Journal
 [Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ### Learning Markdown Assignment
-My name is Dan
+My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking and skiing. Im in a band called The Boards. Below is a link, please check us out!
+
+[The Boards](https://www.theboardsmusic.com/)
+
+
+
 
 What growth midset means to me is that you are steady evolving and adapting to the situation or problem at hand.
 
