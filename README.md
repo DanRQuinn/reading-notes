@@ -16,7 +16,7 @@ What growth midset means to me is that you are steady evolving and adapting to t
 
 2.A tree has many stages from seed to adult. Through all types of weather it will become stronger and continue to reach for the sky.
 
-3.
+3.When learning a new language forming a sentance can be very difficult. As you increase your vocabulary sentances and even convorsations become possible!
 
 
 [Link to my Github Portfolio: https://github.com/DanielRQuinn](https://github.com/DanielRQuinn)
