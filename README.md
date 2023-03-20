@@ -21,4 +21,4 @@ What growth midset means to me is that you are steady evolving and adapting to t
 
 [Link to my Github Portfolio: https://github.com/DanielRQuinn](https://github.com/DanielRQuinn)
 
-![
+![Smiley Face](./ryan-stone-_o_jbr1hXaM-unsplash.jpg)
