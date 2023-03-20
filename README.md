@@ -17,4 +17,4 @@ What growth midset means to me....
 3.
 
 
-[Link to my Github Portfolio:https://github.com/DanielRQuinn](https://github.com/DanielRQuinn)
+[Link to my Github Portfolio: https://github.com/DanielRQuinn](https://github.com/DanielRQuinn)
