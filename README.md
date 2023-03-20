@@ -8,12 +8,14 @@ Code Fellows Reading Journal
 ### Learning Markdown Assignment
 My name is Dan
 
-What growth midset means to me....
+What growth midset means to me is that you are steady evolving and adapting to the situation or problem at hand.
 
 **3 reminders to stay in a Growth Midset**
 
-1.
-2.
+1.A baby experiances many failures in its attempts to walk, yet it persits until it is in fact good at walking.
+
+2.A tree has many stages from seed to adult. Through all types of weather it will become stronger and continue to reach for the sky.
+
 3.
 
 
