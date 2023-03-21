@@ -2,9 +2,19 @@
 
 From: [Markdown Guide](https://www.markdownguide.org/getting-started/)
 
+[Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+
 ## Headings
 
 `# =h1 ## =h3 ect.`
+
+`Heading level 1
+
+===============`
+
+`Heading level 2
+
+---------------`
 
 ## Text edits
 
@@ -43,3 +53,7 @@ GitHub Pages and Jekyll
 Ghost for content managment.
 
 Leanpub for book publishing
+
+Markdown Here for email fomatting 
+
+Slack, Discord, Wiki.js, and Mattermost for collaboration
