@@ -38,7 +38,9 @@ to create paragraphs seperate text with a empty line. no spaces at the beginning
 
 `This is really***very***important text.`
 
+To create a blockquote, add a > in front of a paragraph
 
+Blockquotes can contain multiple paragraphs. Add a > on the blank lines between the paragraphs.
 
 ## Other Notes
 
