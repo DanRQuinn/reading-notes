@@ -76,6 +76,8 @@ file.txt - a plain text file.
 
 file.png, file.gif, file.jpg - an image.
 
+## Questions and answers
+
 1. What are four important features to look for in a text editor?
 
 2. What do the following commands do?
