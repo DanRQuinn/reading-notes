@@ -1,33 +1,64 @@
-# reading-notes
-Code Fellows Reading Journal
+# Reading-Notes
 
-## Reading and Links
-
-[Markdown Notes](class.1.reading-markdown.md)
-
-[The Coders Computer](The-Coders-Computer.md)
-
-[Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-[Git Reading](Git-Revisions-and-the-cloud.md)
+Code Fellows Reading Journal for Notes and Referance
 
 My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking and skiing. Im in a band called The Boards. Below is a link, please check us out!
 
 [The Boards](https://www.theboardsmusic.com/)
 
+## Reading and Links
 
+[Dans Thoughts and Consolodated/Important notes](./Dans-thoughts-and-Consolodated-Notes.md)
 
+### Code 102
 
-What growth midset means to me is that you are steady evolving and adapting to the situation or problem at hand.
+[Reading-1 Markdown](./CF-102/Reading-1.md)
 
-**3 reminders to stay in a Growth Midset**
+[Reading-2 The Coders Computer](./CF-102/Reading-2.md)
 
-1.A baby experiances many failures in its attempts to walk, yet it persits until it is in fact good at walking.
+[Reading-3 Git Revisions/Cloud](./CF-102/Reading-3.md)
 
-2.A tree has many stages from seed to adult. Through all types of weather it will become stronger and continue to reach for the sky.
+[Reading-4](./CF-102/Reading-4.md)
 
-3.When learning a new language forming a sentance can be very difficult. As you increase your vocabulary sentances and even convorsations become possible!
+[Reading-5](./CF-102/Reading-5.md)
 
+[Reading-6](./CF-102/Reading-6.md)
+
+[Reading-7](./CF-102/Reading-7.md)
+
+[Reading-8](./CF-102/Reading-8.md)
+
+### Code 201
+
+[Reading-1.md](./CF-201/Reading-1.md)
+
+[Reading-2.md](./CF-201/Reading-2.md)
+
+[Reading-3.md](./CF-201/Reading-3.md)
+
+[Reading-4.md](./CF-201/Reading-4.md)
+
+[Reading-5.md](./CF-201/Reading-5.md)
+
+[Reading-6.md](./CF-201/Reading-6.md)
+
+[Reading-7.md](./CF-201/Reading-7.md)
+
+[Reading-8.md](./CF-201/Reading-8.md)
+
+[Reading-9.md](./CF-201/Reading-9.md)
+
+[Reading-10.md](./CF-201/Reading-10.md)
+
+[Reading-11.md](./CF-201/Reading-11.md)
+
+[Reading-12.md](./CF-201/Reading-12.md)
+
+[Reading-13.md](./CF-201/Reading-13.md)
+
+[Reading-14.md](./CF-201/Reading-14.md)
+
+[Reading-15.md](./CF-201/Reading-15.md)
 
 [Link to my Github Portfolio: https://github.com/DanielRQuinn](https://github.com/DanielRQuinn)
 

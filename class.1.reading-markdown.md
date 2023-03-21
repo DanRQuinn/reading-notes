@@ -22,9 +22,9 @@ Always need a space between hashtags. and blank line before and after.
 
 ## Text edits
 
-to create paragraphs seperate text with a empty line. no spaces at the beginning. for a line break <br> use two spaces then return, can also just use <br>
+to create paragraphs seperate text with a empty line. no spaces at the beginning. for a line break '\<br>' use two spaces then return, can also just use '\<br>'
 
-` & dragonfly` does nothing
+`& dragonfly` does nothing
 
 `**bold text** __bold text__ Love**is**bold=Loveisbold`
 
@@ -55,7 +55,6 @@ Blockquotes can be nested. Add a >> in front of the paragraph you want to nest
 >
 >> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
-
 ## Other Notes
 
 Markdown syntax is designed to be readable and unobtrusive, so the text in Markdown files can be read even if it isn’t rendered.
@@ -66,7 +65,7 @@ Any markdown app can open .MD files.
 
 Used in popular websites and apps.
 
-All apps that support Markdown can convert .md files to .html 
+All apps that support Markdown can convert .md files to .html
 
 Great for taking notes
 
@@ -86,7 +85,7 @@ Ghost for content managment.
 
 Leanpub for book publishing
 
-Markdown Here for email fomatting 
+Markdown Here for email fomatting
 
 Slack, Discord, Wiki.js, and Mattermost for collaboration
 
@@ -94,15 +93,15 @@ Slack, Discord, Wiki.js, and Mattermost for collaboration
 
 1. What is Markdown?
 
-a file format and coding language that allows for simple and quick HTML design.
+>a file format and coding language that allows for simple and quick HTML design.
 
 2. Why do we use Markdown?
 
-Because it streamlines the html process or can be an alternative to note taking, email formatting, and many other tasks where you want easy to use stylistic text editing
+>Because it streamlines the html process or can be an alternative to note taking, email formatting, and many other tasks where you want easy to use stylistic text editing
 
 3. What symbol will create a heading in Markdown?
 
-`#` followed by a space
+>`#` followed by a space
   
   -How many do you need to create the largest heading?
   
