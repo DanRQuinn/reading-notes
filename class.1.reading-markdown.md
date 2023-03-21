@@ -4,6 +4,8 @@ From: [Markdown Guide](https://www.markdownguide.org/getting-started/)
 
 [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
+[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 ## Headings
 
 Always need a space between hashtags. and blank line before and after.
@@ -37,6 +39,11 @@ to create paragraphs seperate text with a empty line. no spaces at the beginning
 `This text is **_really important_**.`  
 
 `This is really***very***important text.`
+
+for lists use `1. 2. 3. ect.` or - + or * for unorded lists
+
+when starting with a number `- 1968\. A great year!`
+`- I think 1969 was second best.`
 
 To create a blockquote, add a > in front of a paragraph
 
@@ -82,3 +89,37 @@ Leanpub for book publishing
 Markdown Here for email fomatting 
 
 Slack, Discord, Wiki.js, and Mattermost for collaboration
+
+### Questions
+
+1. What is Markdown?
+
+a file format and coding language that allows for simple and quick HTML design.
+
+2. Why do we use Markdown?
+
+Because it streamlines the html process or can be an alternative to note taking, email formatting, and many other tasks where you want easy to use stylistic text editing
+
+3. What symbol will create a heading in Markdown?
+
+`#` followed by a space
+  
+  -How many do you need to create the largest heading?
+  
+Just one the more you add the smaller the heading
+
+  -How many do you need to create the smallest heading?
+
+6 hashtags
+
+4. When making text bold or italicized for emphasis, it is best practice to use which symbol?
+
+The asterisk `*`
+
+5. How do you create a link with Markdown?
+
+`[name of hyperlink](url)`
+
+6. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
+
+`* - or +`
