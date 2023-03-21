@@ -8,9 +8,9 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 ## Reading and Links
 
-[Dans Thoughts and Consolodated/Important notes](./Dans-thoughts-and-Consolodated-Notes.md)
+[Dans Thoughts and Consolidated/Important notes](./Dans-thoughts-and-Consolodated-Notes.md)
 
-### Code 102
+### Code 102 Reading Notes
 
 [Reading-1 Markdown](./CF-102/Reading-1.md)
 
@@ -28,7 +28,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading-8](./CF-102/Reading-8.md)
 
-### Code 201
+### Code 201 Reading Notes
 
 [Reading-1.md](./CF-201/Reading-1.md)
 
