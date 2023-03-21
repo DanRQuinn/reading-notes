@@ -62,6 +62,12 @@ From: [more about files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php
 
 Everything is a file
 
+files are case sensitive
+
+spaces are bad and break up command lines use 'quotes' to fix this is you use tab completion this will also ignore the spaces in the file name.
+
+ls -a Documents the a shows hidden files
+
  A file extension is normally a set of 2 - 4 characters after a full stop at the end of a file, which denotes what type of file it is. The following are common extensions:
 
 file.exe - an executable file, or program.
@@ -69,3 +75,29 @@ file.exe - an executable file, or program.
 file.txt - a plain text file.
 
 file.png, file.gif, file.jpg - an image.
+
+1. What are four important features to look for in a text editor?
+
+2. What do the following commands do?
+
+-1. pwd = Current directory
+
+-2.ls = list directories
+
+-3. cd = change directory
+
+-4. mkdir = make new folder
+
+-5. touch = create file
+
+3. Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
+
+-1. cd projects = go to projects directory
+
+-2. mkdir new-project = make folder called new-project
+
+-3. touch new-project/newfile.md = make file called new-project/newfile.md
+
+-4. cd .. = go back 1 directory
+
+-5. ls projects/new-project = list files in new-projects folder inside projects folder
