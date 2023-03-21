@@ -6,6 +6,8 @@ From: [Markdown Guide](https://www.markdownguide.org/getting-started/)
 
 ## Headings
 
+Always need a space between hashtags. and blank line before and after.
+
 `# =h1 ## =h3 ect.`
 
 `Heading level 1
@@ -18,11 +20,25 @@ From: [Markdown Guide](https://www.markdownguide.org/getting-started/)
 
 ## Text edits
 
+to create paragraphs seperate text with a empty line. no spaces at the beginning. for a line break <br> use two spaces then return, can also just use <br>
+
 ` & dragonfly` does nothing
 
-`**bold text**`
+`**bold text** __bold text__ Love**is**bold=Loveisbold`
 
-`*Italic text*`
+`*Italic text* _italic text_ A*cat*meow=Acatmeow`
+
+`for bold and italic= This text is ***really important***.`  
+
+`this text is ___really important___`  
+
+`his text is __*really important*__.`  
+
+`This text is **_really important_**.`  
+
+`This is really***very***important text.`
+
+
 
 ## Other Notes
 
