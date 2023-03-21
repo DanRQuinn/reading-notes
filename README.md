@@ -5,7 +5,7 @@ Code Fellows Reading Journal
 
 [Markdown Notes](class.1.reading-markdown.md)
 
-[The COders Computer](The-Coders-Computer.md)
+[The Coders Computer](The-Coders-Computer.md)
 
 [Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
