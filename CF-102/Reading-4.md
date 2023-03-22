@@ -74,6 +74,22 @@ For unordered lists use `<ul></ul>`
 
 each item goes inside `<li></li>`
 
+`<strong></strong>` this makes context strong
+
+`<em></em>` this makes it emphazized
+
+Page structure:
+
+`<body>`
+
+`<header></header>`
+
+`<main></main>`
+
+`<Footer></Footer>` for tab at bottom of the page
+
+`</body>`
+
 ## Semantics
 
 From: [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
