@@ -20,9 +20,9 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading-4 Structure Web pages withHTML](./CF-102/Reading-4.md)
 
-[Reading-5](./CF-102/Reading-5.md)
+[Reading-5 Design web pages with Css](./CF-102/Reading-5.md)
 
-[Reading-6](./CF-102/Reading-6.md)
+[Reading-6 Dynamic web pages with JavaScript](./CF-102/Reading-6.md)
 
 [Reading-7](./CF-102/Reading-7.md)
 
