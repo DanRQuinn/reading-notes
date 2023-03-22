@@ -58,6 +58,8 @@ The color property specifies the color of text.
 
 [CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
 
+[CSS Alminac](https://css-tricks.com/almanac/properties/)
+
 1.What is the purpose of CSS?
 
 -To make the page look pretty, HTML pages can be very boring and CSS gives you visual design control
