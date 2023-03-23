@@ -24,9 +24,9 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading-6 Dynamic web pages with JavaScript](./CF-102/Reading-6.md)
 
-[Reading-7](./CF-102/Reading-7.md)
+[Reading-7 Programming with JavaScript](./CF-102/Reading-7.md)
 
-[Reading-8](./CF-102/Reading-8.md)
+[Reading-8 Operators and Loops](./CF-102/Reading-8.md)
 
 ### Code 201 Reading Notes
 
