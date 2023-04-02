@@ -10,7 +10,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Dans Thoughts and Consolidated/Important notes](./Dans-thoughts-and-Consolodated-Notes.md)
 
-### Code 102 Reading Notes
+### Code 102 - Intro to Software Development
 
 [Reading-1 Markdown](./CF-102/Reading-1.md)
 
@@ -28,7 +28,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading-8 Operators and Loops](./CF-102/Reading-8.md)
 
-### Code 201 Reading Notes
+### Code 201 - Foundations of Software Development
 
 [Reading-1.md](./CF-201/Reading-1.md)
 
@@ -63,3 +63,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 [Link to my Github Portfolio: https://github.com/DanielRQuinn](https://github.com/DanielRQuinn)
 
 ![Smiley Face](./ryan-stone-_o_jbr1hXaM-unsplash.jpg)
+
+### Code 301 - Intermediate Software Development
+
+### Code 401 - Advanced Software Development
