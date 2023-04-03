@@ -34,33 +34,33 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading-1 Reading/Review](./CF-201/class01.md)
 
-[Reading-2 Basics of HTML, CSS & JS](./CF-201/Reading-2.md)
+[Reading-2 Basics of HTML, CSS & JS](./class02.md)
 
-[Reading-3.md](./CF-201/Reading-3.md)
+[Reading-3.md](./CF-201/class03.md)
 
-[Reading-4.md](./CF-201/Reading-4.md)
+[Reading-4.md](./CF-201/class04.md)
 
-[Reading-5.md](./CF-201/Reading-5.md)
+[Reading-5.md](./CF-201/class05.md)
 
-[Reading-6.md](./CF-201/Reading-6.md)
+[Reading-6.md](./CF-201/class06.md)
 
-[Reading-7.md](./CF-201/Reading-7.md)
+[Reading-7.md](./CF-201/class07.md)
 
-[Reading-8.md](./CF-201/Reading-8.md)
+[Reading-8.md](./CF-201/class08.md)
 
-[Reading-9.md](./CF-201/Reading-9.md)
+[Reading-9.md](./CF-201/class09.md)
 
-[Reading-10.md](./CF-201/Reading-10.md)
+[Reading-10.md](./CF-201/class10.md)
 
-[Reading-11.md](./CF-201/Reading-11.md)
+[Reading-11.md](./CF-201/class11.md)
 
-[Reading-12.md](./CF-201/Reading-12.md)
+[Reading-12.md](./CF-201/class12.md)
 
-[Reading-13.md](./CF-201/Reading-13.md)
+[Reading-13.md](./CF-201/class13.md)
 
-[Reading-14.md](./CF-201/Reading-14.md)
+[Reading-14.md](./CF-201/class14.md)
 
-[Reading-15.md](./CF-201/Reading-15.md)
+[Reading-15.md](./CF-201/class15.md)
 
 [Link to my Github Portfolio: https://github.com/DanielRQuinn](https://github.com/DanielRQuinn)
 
