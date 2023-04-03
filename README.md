@@ -10,6 +10,8 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Dans Thoughts and Consolidated/Important notes](./Dans-thoughts-and-Consolodated-Notes.md)
 
+## Things I want to know more about
+
 ### Code 102 - Intro to Software Development
 
 [Reading-1 Markdown](./CF-102/Reading-1.md)
@@ -30,7 +32,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 ### Code 201 - Foundations of Software Development
 
-[Reading-1.md](./CF-201/Reading-1.md)
+[Reading-1.md](./CF-201/class01.md)
 
 [Reading-2.md](./CF-201/Reading-2.md)
 
