@@ -34,7 +34,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading-1 Reading/Review](./CF-201/class01.md)
 
-[Reading-2.md](./CF-201/Reading-2.md)
+[Reading-2 Basics of HTML, CSS & JS](./CF-201/Reading-2.md)
 
 [Reading-3.md](./CF-201/Reading-3.md)
 
