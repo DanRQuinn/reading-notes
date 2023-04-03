@@ -32,7 +32,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 ### Code 201 - Foundations of Software Development
 
-[Reading-1.md](./CF-201/class01.md)
+[Reading-1 Reading/Review](./CF-201/class01.md)
 
 [Reading-2.md](./CF-201/Reading-2.md)
 
