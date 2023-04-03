@@ -54,7 +54,7 @@ There is a `<cite>`element, but this is meant to contain the title of the resour
 
 ### Superscript and subscript
 
-You will occasionally need to use superscript and subscript when marking up items like dates, chemical formulae, and mathematical equations so they have the correct meaning. The <sup> and <sub> elements handle this job
+You will occasionally need to use superscript and subscript when marking up items like dates, chemical formulae, and mathematical equations so they have the correct meaning. The `<sup>` and `<sub>` elements handle this job
 <!-- 
 <p>My birthday is on the 25<sup>th</sup> of May 2001.</p>
 <p>
@@ -84,4 +84,3 @@ There are 6 (h1-h6)
 Adding little nubers and letters like 'th' and CO'2'
 
 - When using the `<abbr>` element, what attribute must be added to provide the full expansion of the term?
-
