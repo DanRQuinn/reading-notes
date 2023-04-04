@@ -196,6 +196,6 @@ When you want the response to vary depending on the imput
 
 '=== or !==' '< or >' '<= or >='
 
-- What is the difference between the logical operator && and ||?
+- What is the difference between the logical operator && and `||`?
 
-With && it makes them both true || to make it so all expressions in the chain have to individually evaluate to true
+With && it makes them both true `||` to make it so all expressions in the chain have to individually evaluate to true
