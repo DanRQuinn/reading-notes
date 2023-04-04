@@ -36,7 +36,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading-2 Basics of HTML, CSS & JS](./CF-201/class02.md)
 
-[Reading-3.md](./CF-201/class03.md)
+[Reading-3 HTML Lists, Control Flow with JS, and the CSS Box Model](./CF-201/class03.md)
 
 [Reading-4.md](./CF-201/class04.md)
 
@@ -62,7 +62,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading-15.md](./CF-201/class15.md)
 
-[Link to my Github Portfolio: https://github.com/DanielRQuinn](https://github.com/DanielRQuinn)
+[Link to my Github Portfolio: https://github.com/DanRQuinn](https://github.com/DanielRQuinn)
 
 ![Smiley Face](./ryan-stone-_o_jbr1hXaM-unsplash.jpg)
 
