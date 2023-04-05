@@ -38,7 +38,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading-3 HTML Lists, Control Flow with JS, and the CSS Box Model](./CF-201/class03.md)
 
-[Reading-4.md](./CF-201/class04.md)
+[Reading-4 HTML Links, JS Functions, and Intro to CSS Layout](./CF-201/class04.md)
 
 [Reading-5.md](./CF-201/class05.md)
 

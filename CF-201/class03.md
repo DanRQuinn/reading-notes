@@ -201,4 +201,4 @@ I someone fails to answer a prompt right then promt again.
 
 - Give an example of when a Loop is useful in JavaScript.
 
-WHen making the are you a robot images.
+When making the are you a robot images.
