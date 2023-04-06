@@ -35,21 +35,42 @@ Add supporting information like a title, use key words that make the link make s
 
 From: [CSS layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
 
+### Normal Flow
+
+By default, a block level element's content fills the available inline space of the parent element containing it and the element grows along the block dimension to accommodate its content. The size of inline elements is just the size of their content. You can't set width or height on inline elements — they just sit inside the content of block level elements — except for images
 
 
+### Positioning
 
+Positioning allows you to take elements out of normal document flow and make them behave differently, for example, by sitting on top of one another or by always remaining in the same place inside the browser viewport.
 
+Static positioning is the default that every element gets. It just means "put the element into its normal position in the document flow — nothing special to see here."
+
+Relative positioning is the first position type we'll take a look at. This is very similar to static positioning, except that once the positioned element has taken its place in the normal flow, you can then modify its final position, including making it overlap other elements on the page. 
+
+top, bottom, left, and right are used alongside position to specify exactly where to move the positioned element to. To try this out, add the following declarations to the .positioned rule in your CSS:
 
 
 
 - What is meant by “normal flow”?
 
+The way the HTML lays out the content.
+
 - What are a few differences between block-level and inline elements?
-___ positioning is the default for every html element.
+
+The block-level elements effect the availible space of the parent element containing it while the inline element is just the size of the content.
+
+- ___ positioning is the default for every html element.
+
+Static.
 
 - Name a few advantages to using absolute positioning on an element.
 
+Because it will no longer be pushed around by other elements on the page.
+
 - What is a key difference between fixed positioning and absolute positioning?
+
+Absolute places an element in regards to its nearest ancestor, Fixed bases it off of the Page.
 
 ## Functions — reusable blocks of code
 
