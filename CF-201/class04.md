@@ -76,10 +76,18 @@ Absolute places an element in regards to its nearest ancestor, Fixed bases it of
 
 From: [Functions — reusable blocks of code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
 
+Another essential concept in coding is functions, which allow you to store a piece of code that does a single task inside a defined block, and then call that code whenever you need it using a single short command — rather than having to type out the same code multiple times.
 
+Some functions require parameters to be specified when you are invoking them — these are values that need to be included inside the function parentheses, which it needs to do its job properly.
 
+Parameters are sometimes called arguments, properties, or even attributes.
 
+scope — a very important concept when dealing with functions. When you create a function, the variables and other things defined inside the function are inside their own separate scope, meaning that they are locked away in their own separate compartments, unreachable from code outside the functions.
 
 - Describe the difference between a function declaration and a function invocation.
 
+The declaratio  is when the function is made, invocation is when it is used.
+
 - What is the difference between a parameter and an argument?
+
+A paramater is like a variable inside the function.
