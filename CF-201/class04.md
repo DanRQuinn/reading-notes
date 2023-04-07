@@ -39,18 +39,15 @@ From: [CSS layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout
 
 By default, a block level element's content fills the available inline space of the parent element containing it and the element grows along the block dimension to accommodate its content. The size of inline elements is just the size of their content. You can't set width or height on inline elements — they just sit inside the content of block level elements — except for images
 
-
 ### Positioning
 
 Positioning allows you to take elements out of normal document flow and make them behave differently, for example, by sitting on top of one another or by always remaining in the same place inside the browser viewport.
 
 Static positioning is the default that every element gets. It just means "put the element into its normal position in the document flow — nothing special to see here."
 
-Relative positioning is the first position type we'll take a look at. This is very similar to static positioning, except that once the positioned element has taken its place in the normal flow, you can then modify its final position, including making it overlap other elements on the page. 
+Relative positioning is the first position type we'll take a look at. This is very similar to static positioning, except that once the positioned element has taken its place in the normal flow, you can then modify its final position, including making it overlap other elements on the page.
 
 top, bottom, left, and right are used alongside position to specify exactly where to move the positioned element to. To try this out, add the following declarations to the .positioned rule in your CSS:
-
-
 
 - What is meant by “normal flow”?
 
