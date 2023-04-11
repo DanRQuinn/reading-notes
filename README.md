@@ -40,11 +40,11 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading-4 HTML Links, JS Functions, and Intro to CSS Layout](./CF-201/class04.md)
 
-[Reading-5.md](./CF-201/class05.md)
+[Reading-5 Images, Color, Text](./CF-201/class05.md)
 
-[Reading-6.md](./CF-201/class06.md)
+[Reading-6 Problem Domain, Objects, and the DOM](./CF-201/class06.md)
 
-[Reading-7.md](./CF-201/class07.md)
+[Reading-7 Object-Oriented Programming, HTML Tables](./CF-201/class07.md)
 
 [Reading-8.md](./CF-201/class08.md)
 
