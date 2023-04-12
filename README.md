@@ -46,7 +46,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading-7 Object-Oriented Programming, HTML Tables](./CF-201/class07.md)
 
-[Reading-8.md](./CF-201/class08.md)
+[Reading-8 CSS Layout](./CF-201/class08.md)
 
 [Reading-9.md](./CF-201/class09.md)
 
