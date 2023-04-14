@@ -6,16 +6,16 @@ From:[Web forms — Working with user data](https://developer.mozilla.org/en-US/
 
 Before starting to code, it's always better to step back and take the time to think about your form. Designing a quick mockup will help you to define the right set of data you want to ask your user to enter. From a user experience (UX) point of view, it's important to remember that the bigger your form, the more you risk frustrating people and losing users. Keep it simple and stay focused: ask only for the data you absolutely need.
 
-The <label>, <input>, and <textarea> elements
-Our contact form is not complex: the data entry portion contains three text fields, each with a corresponding <label>:
+The `<label>, <input>, and <textarea>` elements
+Our contact form is not complex: the data entry portion contains three text fields, each with a corresponding `<label>`:
 
 The input field for the name is a single-line text field.
 The input field for the email is an input of type email: a single-line text field that accepts only email addresses.
-The input field for the message is a <textarea>; a multiline text field.
+The input field for the message is a `<textarea>`; a multiline text field.
 
-The markup for our form is almost complete; we just need to add a button to allow the user to send, or "submit", their data once they have filled out the form. This is done by using the <button> element; add the following just above the closing </ul> tag:
+The markup for our form is almost complete; we just need to add a button to allow the user to send, or "submit", their data once they have filled out the form. This is done by using the `<button> `element; add the following just above the closing `</ul>` tag:
 
-css for froms: 
+css for froms:
 
 form {
   /* Center the form on the page */
