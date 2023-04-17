@@ -15,7 +15,7 @@ The input field for the message is a `<textarea>`; a multiline text field.
 
 The markup for our form is almost complete; we just need to add a button to allow the user to send, or "submit", their data once they have filled out the form. This is done by using the `<button> `element; add the following just above the closing `</ul>` tag:
 
-css for froms:
+css for forms:
 
 form {
   /* Center the form on the page */
