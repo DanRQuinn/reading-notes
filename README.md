@@ -48,11 +48,11 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading-8 CSS Layout](./CF-201/class08.md)
 
-[Reading-9.md](./CF-201/class09.md)
+[Reading Forms and JS Events](./CF-201/class09.md)
 
-[Reading-10.md](./CF-201/class10.md)
+[Reading Debugging](./CF-201/class10.md)
 
-[Reading-11.md](./CF-201/class11.md)
+[Reading Audio, Video, Images](./CF-201/class11.md)
 
 [Reading-12.md](./CF-201/class12.md)
 
