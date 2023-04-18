@@ -54,9 +54,9 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading Audio, Video, Images](./CF-201/class11.md)
 
-[Reading-12.md](./CF-201/class12.md)
+[Reading Chart.js, Canvas](./CF-201/class12.md)
 
-[Reading-13.md](./CF-201/class13.md)
+[Reading Local Storage and How To Use It On Websites](./CF-201/class13.md)
 
 [Reading-14.md](./CF-201/class14.md)
 
