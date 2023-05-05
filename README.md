@@ -62,6 +62,70 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading-15.md](./CF-201/class15.md)
 
+### Code 301 - Intermediate Software Development
+
+[Reading-1.md](./CF-301/class01.md)
+
+[Reading-2.md](./CF-301/class02.md)
+
+[Reading-3.md](./CF-301/class03.md)
+
+[Reading-4.md](./CF-301/class04.md)
+
+[Reading-5.md](./CF-301/class05.md)
+
+[Reading-6.md](./CF-301/class06.md)
+
+[Reading-7.md](./CF-301/class07.md)
+
+[Reading-8.md](./CF-301/class08.md)
+
+[Reading-9.md](./CF-301/class09.md)
+
+[Reading-10.md](./CF-301/class10.md)
+
+[Reading-11.md](./CF-301/class11.md)
+
+[Reading-12.md](./CF-301/class12.md)
+
+[Reading-13.md](./CF-301/class13.md)
+
+[Reading-14.md](./CF-301/class14.md)
+
+[Reading-15.md](./CF-301/class15.md)
+
+### Code 401 - Advanced Software Development
+
+[Reading-1.md](./CF-401/class01.md)
+
+[Reading-2.md](./CF-401/class02.md)
+
+[Reading-3.md](./CF-401/class03.md)
+
+[Reading-4.md](./CF-401/class04.md)
+
+[Reading-5.md](./CF-401/class05.md)
+
+[Reading-6.md](./CF-401/class06.md)
+
+[Reading-7.md](./CF-401/class07.md)
+
+[Reading-8.md](./CF-401/class08.md)
+
+[Reading-9.md](./CF-401/class09.md)
+
+[Reading-10.md](./CF-401/class10.md)
+
+[Reading-11.md](./CF-401/class11.md)
+
+[Reading-12.md](./CF-401/class12.md)
+
+[Reading-13.md](./CF-401/class13.md)
+
+[Reading-14.md](./CF-401/class14.md)
+
+[Reading-15.md](./CF-401/class15.md)
+
 [Link to my Github Portfolio: https://github.com/DanRQuinn](https://github.com/DanielRQuinn)
 
 ![Smiley Face](./ryan-stone-_o_jbr1hXaM-unsplash.jpg)
