@@ -64,7 +64,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 ### Code 301 - Intermediate Software Development
 
-[Reading-1.md](./CF-301/class01.md)
+[Reading Introduction to React and Components.md](./CF-301/class01.md)
 
 [Reading-2.md](./CF-301/class02.md)
 
