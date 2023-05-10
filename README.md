@@ -68,7 +68,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading React: Component Lifecycle Events.md](./CF-301/class02.md)
 
-[Reading-3.md](./CF-301/class03.md)
+[Reading Passing Functions as Props.md](./CF-301/class03.md)
 
 [Reading-4.md](./CF-301/class04.md)
 
