@@ -70,7 +70,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading Passing Functions as Props.md](./CF-301/class03.md)
 
-[Reading-4.md](./CF-301/class04.md)
+[Reading React and Forms.md](./CF-301/class04.md)
 
 [Reading-5.md](./CF-301/class05.md)
 
