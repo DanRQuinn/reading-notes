@@ -76,8 +76,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading REST.md](./CF-301/class06.md)
 
-[Reading NODE.JS
-.md](./CF-301/class07.md)
+[Reading NODE.JS.md](./CF-301/class07.md)
 
 [Reading-8.md](./CF-301/class08.md)
 
