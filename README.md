@@ -80,7 +80,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading APIs.md](./CF-301/class08.md)
 
-[Reading-9.md](./CF-301/class09.md)
+[Reading Functional Programming.md](./CF-301/class09.md)
 
 [Reading-10.md](./CF-301/class10.md)
 
