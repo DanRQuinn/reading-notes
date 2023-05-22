@@ -84,7 +84,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading In memory storage.md](./CF-301/class10.md)
 
-[Reading-11.md](./CF-301/class11.md)
+[Reading MongoDB and Mongoose.md](./CF-301/class11.md)
 
 [Reading-12.md](./CF-301/class12.md)
 
