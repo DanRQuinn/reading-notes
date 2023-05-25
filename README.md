@@ -90,7 +90,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading More CRUD.md](./CF-301/class13.md)
 
-[Reading-14.md](./CF-301/class14.md)
+[Reading Diversity & Inclusion in the Tech Industry.md](./CF-301/class14.md)
 
 [Reading-15.md](./CF-301/class15.md)
 
