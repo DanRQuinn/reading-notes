@@ -92,7 +92,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading Diversity & Inclusion in the Tech Industry.md](./CF-301/class14.md)
 
-[Reading-15.md](./CF-301/class15.md)
+[Reading Authentication.md](./CF-301/class15.md)
 
 ### Code 401 - Advanced Software Development
 
