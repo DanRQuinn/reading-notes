@@ -1,4 +1,4 @@
-#Prep: The Growth Mindset
+# Prep: The Growth Mindset
 
 ## Reading and videos
 
