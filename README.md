@@ -96,40 +96,98 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 ### Code 401 - Advanced Software Development
 
-[Reading-1.md](./CF-401/class01.md)
+[Prep: The Growth Mindset](./CF-401/Prep%3A%20The%20Growth%20Mindset.md)
 
-[Reading-2.md](./CF-401/class02.md)
+[Reading-1.md](./CF-401/class_1.md)
 
-[Reading-3.md](./CF-401/class03.md)
+[Reading-2.md](./CF-401/class_2.md)
 
-[Reading-4.md](./CF-401/class04.md)
+[Reading-3.md](./CF-401/class_3.md)
 
-[Reading-5.md](./CF-401/class05.md)
+[Reading-4.md](./CF-401/class_4.md)
 
-[Reading-6.md](./CF-401/class06.md)
+[Reading-5.md](./CF-401/class_5.md)
 
-[Reading-7.md](./CF-401/class07.md)
+[Reading-6.md](./CF-401/class_6.md)
 
-[Reading-8.md](./CF-401/class08.md)
+[Reading-7.md](./CF-401/class_7.md)
 
-[Reading-9.md](./CF-401/class09.md)
+[Reading-8.md](./CF-401/class_8.md)
 
-[Reading-10.md](./CF-401/class10.md)
+[Reading-9.md](./CF-401/class_9.md)
 
-[Reading-11.md](./CF-401/class11.md)
+[Reading-10.md](./CF-401/class_10.md)
 
-[Reading-12.md](./CF-401/class12.md)
+[Reading-11.md](./CF-401/class_11.md)
 
-[Reading-13.md](./CF-401/class13.md)
+[Reading-12.md](./CF-401/class_12.md)
 
-[Reading-14.md](./CF-401/class14.md)
+[Reading-13.md](./CF-401/class_13.md)
 
-[Reading-15.md](./CF-401/class15.md)
+[Reading-14.md](./CF-401/class_14.md)
+
+[Reading-15.md](./CF-401/class_15.md)
+
+[Reading-16.md](./CF-401/class_16.md)
+
+[Reading-17.md](./CF-401/class_17.md)
+
+[Reading-18.md](./CF-401/class_18.md)
+
+[Reading-19.md](./CF-401/class_19.md)
+
+[Reading-20.md](./CF-401/class_20.md)
+
+[Reading-21.md](./CF-401/class_21.md)
+
+[Reading-22.md](./CF-401/class_22.md)
+
+[Reading-23.md](./CF-401/class_23.md)
+
+[Reading-24.md](./CF-401/class_24.md)
+
+[Reading-25.md](./CF-401/class_25.md)
+
+[Reading-26.md](./CF-401/class_26.md)
+
+[Reading-27.md](./CF-401/class_27.md)
+
+[Reading-28.md](./CF-401/class_28.md)
+
+[Reading-29.md](./CF-401/class_29.md)
+
+[Reading-30.md](./CF-401/class_30.md)
+
+[Reading-31.md](./CF-401/class_31.md)
+
+[Reading-32.md](./CF-401/class_32.md)
+
+[Reading-33.md](./CF-401/class_33.md)
+
+[Reading-34.md](./CF-401/class_34.md)
+
+[Reading-35.md](./CF-401/class_35.md)
+
+[Reading-36.md](./CF-401/class_36.md)
+
+[Reading-37.md](./CF-401/class_37.md)
+
+[Reading-38.md](./CF-401/class_38.md)
+
+[Reading-39.md](./CF-401/class_39.md)
+
+[Reading-40.md](./CF-401/class_40.md)
+
+[Reading-41.md](./CF-401/class_41.md)
+
+[Reading-42.md](./CF-401/class_42.md)
+
+[Reading-43.md](./CF-401/class_43.md)
+
+[Reading-44.md](./CF-401/class_44.md)
+
+[Reading-45.md](./CF-401/class_45.md)
 
 [Link to my Github Portfolio: https://github.com/DanRQuinn](https://github.com/DanielRQuinn)
 
 ![Smiley Face](./ryan-stone-_o_jbr1hXaM-unsplash.jpg)
-
-### Code 301 - Intermediate Software Development
-
-### Code 401 - Advanced Software Development
