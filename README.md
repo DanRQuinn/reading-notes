@@ -96,7 +96,9 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 ### Code 401 - Advanced Software Development
 
-[Prep: The Growth Mindset.md](./CF-401/Prep%3A%20The%20Growth%20Mindset.md)
+[Prep: The Growth Mindset.md](./CF-401/Prep%3AThe_Growth_Mindset.md)
+
+[Prep: Introduction to SQL.md](./CF-401/Prep%3A%20Introduction%20to%20SQL)
 
 [Reading-1.md](./CF-401/class_1.md)
 
