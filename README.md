@@ -100,6 +100,8 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
   
 [Prep: Introduction to SQL.md](./CF-401/Prep_Introduction_to_SQL.md)
 
+[Prep: Practice in the terminal.md](./CF-401/Prep_Practice_in_the_Terminal)
+
 [Reading-1.md](./CF-401/class_1.md)
 
 [Reading-2.md](./CF-401/class_2.md)
