@@ -20,7 +20,7 @@ The video talks about the growth midset and embracing challages. Failure can be 
 
 ### Angela Lee Duckworth on Grit
 
-From:[Angela Lee Duckworth on Grit]()
+From:[Angela Lee Duckworth on Grit](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/c)
 
 This topic is important because we will all soon be heading out into a competative job market. I know personally  I am worried about wether I have what it takes to compete with AI coders, and grit will be needed to survive the next generation of technology.
 
@@ -28,7 +28,7 @@ In the video Angela talks about the importace of grit. She defines it as passion
 
 ### Alain de Botton on Redefining Success
 
-From:[Alain de Botton on Redefining Success]()
+From:[Alain de Botton on Redefining Success](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success)
 
 This topic is important because we all know what job anxiety can feel like. Are we were we should be in life right now(for me its always been no), what do my friends/significant other really think of my career(also in this case my spose has thought since the day she met me I should have a better job). Unless I get a great job right out of the gate these will probably be anxieties that stick with me for a while.
 
