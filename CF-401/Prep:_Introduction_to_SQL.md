@@ -1,4 +1,3 @@
-
 # Prep: Introduction to SQL
 
 ## SQL Bolt tutorials
