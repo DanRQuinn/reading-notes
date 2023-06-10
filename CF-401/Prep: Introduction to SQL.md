@@ -1,8 +1,6 @@
 # Prep: Introduction to SQL
 
-## Reading and videos
-
-### SQL Bolt tutorials
+## SQL Bolt tutorials
 
 From: [SQL Bolt tutorials](https://sqlbolt.com/)
 
