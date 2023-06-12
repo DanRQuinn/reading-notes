@@ -18,7 +18,7 @@ Time complexity refers to how long it takes an algorithm to run, while space com
 
 ## Names and Values in Python
 
-From: (Names and Values in Python)[]
+From: (Names and Values in Python)[https://www.youtube.com/watch?v=_AEJHKGk9ns]
 
 - Based on the “Names and Values in Python” reading, explain the difference between mutable and immutable data types in Python.
 
