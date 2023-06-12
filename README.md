@@ -104,7 +104,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Prep: Practice in the terminal.md](./CF-401/Prep_Practice_in_the_Terminal.md)
 
-[Reading-1.md](./CF-401/class_1.md)
+[Reading Pain and Suffering.md](./CF-401/class_1.md)
 
 [Reading-2.md](./CF-401/class_2.md)
 
