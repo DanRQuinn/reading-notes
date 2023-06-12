@@ -2,7 +2,7 @@
 
 ## Pain and Suffering
 
-From: (Pain and Suffering)[https://codefellows.github.io/code-401-python-guide/curriculum/class-01/notes/pain_suffering]
+From: [Pain and Suffering](https://codefellows.github.io/code-401-python-guide/curriculum/class-01/notes/pain_suffering)
 
 - In the context of the reading “Pain and Suffering,” describe the main challenges faced by beginners when learning Python and suggest at least two strategies for overcoming these obstacles.
 
@@ -10,7 +10,7 @@ This is important because we will all soon be going into this crazy 10 week expe
 
 ## Beginners Guide to Big O
 
-From: (Beginners Guide to Big O)[https://robbell.io/2009/06/a-beginners-guide-to-big-o-notation]
+From: [Beginners Guide to Big O](https://robbell.io/2009/06/a-beginners-guide-to-big-o-notation)
 
 - After reading “Beginners Guide to Big O,” explain the concept of time complexity and space complexity.
 
@@ -18,7 +18,7 @@ Time complexity refers to how long it takes an algorithm to run, while space com
 
 ## Names and Values in Python
 
-From: (Names and Values in Python)[https://www.youtube.com/watch?v=_AEJHKGk9ns]
+From: [Names and Values in Python](https://www.youtube.com/watch?v=_AEJHKGk9ns)
 
 - Based on the “Names and Values in Python” reading, explain the difference between mutable and immutable data types in Python.
 
@@ -26,5 +26,5 @@ Mutable data types can be changed after they are created while immutable data ty
 
 ## Reading and links
 
-(Python 3 Module of the Week)[https://pymotw.com/3/index.html]
+[Python 3 Module of the Week](https://pymotw.com/3/index.html)
 
