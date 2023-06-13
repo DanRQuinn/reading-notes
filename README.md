@@ -108,7 +108,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading Pain and Suffering.md](./CF-401/class_1.md)
 
-[Reading-2.md](./CF-401/class_2.md)
+[Reading Testing and Modules.md](./CF-401/class_2.md)
 
 [Reading-3.md](./CF-401/class_3.md)
 
