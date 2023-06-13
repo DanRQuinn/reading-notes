@@ -12,6 +12,10 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 ## Things I want to know more about
 
+## Quizez and Tests
+
+[Reading and Writing Files in Python Quiz](https://realpython.com/quizzes/read-write-files-python/)
+
 ### Code 102 - Intro to Software Development
 
 [Reading-1 Markdown](./CF-102/Reading-1.md)
@@ -110,7 +114,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading Testing and Modules.md](./CF-401/class_2.md)
 
-[Reading-3.md](./CF-401/class_3.md)
+[Reading FileIO & Exceptions.md](./CF-401/class_3.md)
 
 [Reading-4.md](./CF-401/class_4.md)
 
