@@ -118,7 +118,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading FileIO & Exceptions.md](./CF-401/class_3.md)
 
-[Reading-4.md](./CF-401/class_4.md)
+[Reading Linked Lists.md](./CF-401/class_4.md)
 
 [Reading-5.md](./CF-401/class_5.md)
 
