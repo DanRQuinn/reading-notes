@@ -34,4 +34,4 @@ Pytest fixtures are a way to write multiple test quickly. Code coverage is how m
 
 ## Reading and links
 
-[Pytest Fixtures](https://docs.pytest.org/en/latest/explanation/fixtures.html)
+[Pytest Fixtures](https://docs.pytest.org/en/latest/explanation/fixtures.htmlap)

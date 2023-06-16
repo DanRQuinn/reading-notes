@@ -12,6 +12,8 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 ## Things I want to know more about
 
+
+
 ## Quizez and Tests
 
 [Reading and Writing Files in Python Quiz](https://realpython.com/quizzes/read-write-files-python/)
