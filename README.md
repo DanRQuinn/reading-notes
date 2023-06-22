@@ -126,9 +126,9 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading Ten Thousand 2.md](./CF-401/class_7.md)
 
-[Reading-8.md](./CF-401/class_8.md)
+[Reading Ten Thousand 3.md](./CF-401/class_8.md)
 
-[Reading-9.md](./CF-401/class_9.md)
+[Reading Ten Thousand 4.md](./CF-401/class_9.md)
 
 [Reading-10.md](./CF-401/class_10.md)
 
