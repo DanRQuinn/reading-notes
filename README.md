@@ -12,7 +12,9 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 ## Things I want to know more about
 
+## Random ideas
 
+look at ceral data set for pandas on 06/27/23 for budgeting cereal based off of how heatly it is for you
 
 ## Quizez and Tests
 
@@ -132,9 +134,9 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [Reading Data Analysis.md](./CF-401/class_11.md)
 
-[Reading-12.md](./CF-401/class_12.md)
+[Reading Topic.md](./CF-401/class_12.md)
 
-[Reading-13.md](./CF-401/class_13.md)
+[Reading Linear Regressions.md](./CF-401/class_13.md)
 
 [Reading-14.md](./CF-401/class_14.md)
 
