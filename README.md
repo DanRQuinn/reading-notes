@@ -12,6 +12,10 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 ## Things I want to know more about
 
+traversing linked lists
+
+writing code practice
+
 ## Random ideas
 
 look at ceral data set for pandas on 06/27/23 for budgeting cereal based off of how heatly it is for you
@@ -112,7 +116,7 @@ look at ceral data set for pandas on 06/27/23 for budgeting cereal based off of 
 
 [Prep: Practice in the terminal.md](./CF-401/Prep_Practice_in_the_Terminal.md)
 
-[Prep: Data Structures and Algorithms.md](./CF-401/Data Structures and Algorithms.md)
+[Prep: Data Structures and Algorithms.md](./CF-401/Data_Structures_and_Algorithms.md)
 
 [Reading Pain and Suffering.md](./CF-401/class_1.md)
 
@@ -138,7 +142,7 @@ look at ceral data set for pandas on 06/27/23 for budgeting cereal based off of 
 
 [Reading Linear Regressions.md](./CF-401/class_13.md)
 
-[Reading-14.md](./CF-401/class_14.md)
+[Reading Data Visualization.md](./CF-401/class_14.md)
 
 [Reading-15.md](./CF-401/class_15.md)
 
