@@ -144,9 +144,7 @@ look at ceral data set for pandas on 06/27/23 for budgeting cereal based off of 
 
 [Reading Data Visualization.md](./CF-401/class_14.md)
 
-[Reading-15.md](./CF-401/class_15.md)
-
-[Reading-16.md](./CF-401/class_16.md)
+[Reading Serverless Functions.md](./CF-401/class_16.md)
 
 [Reading-17.md](./CF-401/class_17.md)
 
