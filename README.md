@@ -12,6 +12,8 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 ## Things I want to know more about
 
+get better at big O notation
+
 traversing linked lists
 
 writing code practice
@@ -19,6 +21,8 @@ writing code practice
 ## Random ideas
 
 look at ceral data set for pandas on 06/27/23 for budgeting cereal based off of how heatly it is for you
+
+vercel add domain for projects
 
 ## Quizez and Tests
 
