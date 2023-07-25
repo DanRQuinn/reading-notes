@@ -178,7 +178,7 @@ vercel add domain for projects
 
 [Reading-30.md](./CF-401/class_30.md)
 
-[Reading-31.md](./CF-401/class_31.md)
+[Reading Permissions & Postgresql.md](./CF-401/class_31.md)
 
 [Reading-32.md](./CF-401/class_32.md)
 
