@@ -182,9 +182,9 @@ vercel add domain for projects
 
 [Reading-32.md](./CF-401/class_32.md)
 
-[Reading-33.md](./CF-401/class_33.md)
+[Reading Authentication & Production Server.md](./CF-401/class_33.md)
 
-[Reading-34.md](./CF-401/class_34.md)
+[Reading API Deployment.md](./CF-401/class_34.md)
 
 [Reading-35.md](./CF-401/class_35.md)
 
