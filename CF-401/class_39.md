@@ -1,32 +1,9 @@
-# 
-
-## 
-
-From: []()
-
-
-
-## 
-
-From: []()
-
-
-
-
-## 
-
-From: []()
+# React 2
 
 ## Questions
 
+- React Context is a feature in React that provides a way to share data and state between components without the need to pass props through intermediate components. It helps in managing state and data sharing in a React application by creating a global data store that can be accessed by any component in the component tree. Context is particularly useful when multiple components in the application require access to the same data, such as user authentication status, theme settings, or language preferences. Instead of manually passing down props from parent to child components, Context allows components to subscribe to the shared data and receive updates whenever the data changes, leading to a more efficient and organized approach to state management.
 
+- The useContext Hook is a built-in React Hook that allows functional components to access data from a React Context. It simplifies the process of consuming data from Context by removing the need for a wrapper component and the render props pattern. To use the useContext Hook, first, you need to create a Context using the React.createContext() function. Then, in a functional component, you can use the useContext() Hook by passing the Context object as an argument to it. The Hook returns the value stored in the Context, which can be used in the component's logic or UI rendering. This approach streamlines the consumption of Context data and leads to cleaner and more concise code.
 
-## Reading and links
-
-[]()
-
-[]()
-
-[]()
-
-
+- Next.js is a popular React framework that enhances the development of server-rendered React applications. Its primary purpose is to make building server-side rendered (SSR) or static websites with React easier and more efficient. Next.js provides features like automatic code splitting, server-side rendering, and static site generation, which optimize web applications for performance and SEO. It simplifies the setup process, handling complex configuration and routing tasks, allowing developers to focus on building user interfaces and features. One example of how Next.js can be used to build a scalable web application is by leveraging its static site generation capabilities. With Next.js, you can fetch data during the build process and generate static HTML pages that can be served to users directly from a content delivery network (CDN), resulting in faster page loads and better scalability, especially for content-heavy websites.
