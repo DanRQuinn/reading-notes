@@ -1,32 +1,11 @@
 # 
 
-## 
+## Questions 
 
-From: []()
+- In Python, dunder methods are special methods that are surrounded by double underscores on both sides of their names, such as __init__, __str__, __add__, etc. They allow for the customization of built-in behavior in classes. These methods are also known as magic methods or special methods. By defining dunder methods in a class, you can override default behavior for operations like object initialization, string representation, addition, comparison, and more. For example, the __str__ method allows you to define a custom string representation of an object when it is converted to a string using str(obj) or during string formatting.
 
+- An iterator in Python is an object that allows you to traverse a sequence of elements one by one without exposing the underlying structure of the sequence. Iterators provide two essential methods: __iter__() and __next__(). The __iter__() method returns the iterator object itself, and the __next__() method returns the next element in the sequence. When there are no more elements to return, the __next__() method raises the StopIteration exception. To create a custom iterator, you need to define these two methods in a class. By using iterators, you can enable iteration over custom data structures and manage the state of iteration independently for each instance of the class.
 
+- A generator in Python is a special type of iterator that allows you to generate a sequence of values lazily, one at a time, using the yield keyword. Unlike regular functions that use the return statement and terminate after returning a value, generator functions preserve their state and can be resumed from the last yield statement when called again. This behavior allows generators to efficiently generate large sequences of data without consuming excessive memory. 
 
-## 
-
-From: []()
-
-
-
-
-## 
-
-From: []()
-
-## Questions
-
-
-
-## Reading and links
-
-[]()
-
-[]()
-
-[]()
-
-
+- In Python, decorators are a powerful way to modify the behavior of functions or methods by wrapping them with additional functionality. They are functions that take another function as an argument and return a new function, effectively extending or enhancing the original function's behavior. Decorators are commonly used for tasks like logging, timing, authentication, and caching. To create a custom decorator, you define a Python function and use the @decorator_name syntax above the function you want to decorate. The decorator function will receive the original function as its input, and you can modify it or add functionality before calling the original function within the decorator.
