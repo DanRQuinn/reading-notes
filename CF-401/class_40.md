@@ -1,32 +1,9 @@
-# 
-
-## 
-
-From: []()
-
-
-
-## 
-
-From: []()
-
-
-
-
-## 
-
-From: []()
+# React 4
 
 ## Questions
 
+Dynamic routes in Next.js allow you to create pages with URLs that depend on specific data or parameters. Unlike static routes, where the pages are pre-built at build time, dynamic routes are generated on-the-fly based on the data provided during the request. With dynamic routes, you can create pages that can handle varying content, such as blog posts, product pages, or user profiles. In Next.js, dynamic routes are created using brackets [ ] in the page filename, and the data within the brackets represents the dynamic parameter. For example, if you have a dynamic page for blog posts, you can create a file called [slug].js, and the slug will be used as the parameter to fetch the corresponding blog post from a data source.
 
+Deploying a Next.js application typically involves several key steps. First, you need to ensure that your application is production-ready and optimized for performance. You can achieve this by running the command npm run build to generate an optimized production build. Next, you can use a deployment platform like Vercel, Netlify, or AWS Amplify to deploy your Next.js application. These platforms provide seamless integration with Next.js and offer easy deployment workflows. Once you've selected a platform, you can connect your repository and configure deployment settings. Finally, with a few clicks or terminal commands, your Next.js application will be deployed to a publicly accessible URL, making it available for users to access.
 
-## Reading and links
-
-[]()
-
-[]()
-
-[]()
-
-
+Next.js handles static file serving through a dedicated folder called "public" at the root level of the project. The "public" folder serves as the default location for storing static assets like images, fonts, and other files that don't require processing by Webpack. When you place assets in the "public" folder, Next.js ensures they are served efficiently and directly without going through the server or build process. To reference these assets in a Next.js application, you can use the "/public" directory as the base URL. For instance, if you have an image named "logo.png" in the "public" folder, you can include it in your component using <img src="/logo.png" alt="Logo" />. This simple and straightforward approach to static file serving in Next.js makes it easy to manage and optimize assets in your application.
