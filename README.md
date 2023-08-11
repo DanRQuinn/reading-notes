@@ -8,7 +8,7 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 ## Resume
 
-
+[Resume](./Resume.md)
 
 ## Reading and Links
 
