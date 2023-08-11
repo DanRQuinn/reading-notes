@@ -6,6 +6,10 @@ My name is Dan. Im from Seattle and live in Shoreline. I love Music and biking a
 
 [The Boards](https://www.theboardsmusic.com/)
 
+## Resume
+
+
+
 ## Reading and Links
 
 [Dans Thoughts and Consolidated/Important notes](./Dans-thoughts-and-Consolodated-Notes.md)
